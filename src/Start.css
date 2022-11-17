@@ -1,0 +1,27 @@
+.btn-start {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+  .homebtn{
+    margin-right:0.5rem;
+    color:white;
+    font-weight:900;
+    text-decoration:none;
+    padding:2px;
+    font-family:'Copperplate';
+  }
+
+  .homebtn:hover{
+    background-color: white;
+  }
+
+  .logoutbtn{
+    border:none;
+    color:white;
+    background-color:#256D85;
+    font-weight:900;
+    font-family:'Copperplate';
+  }
